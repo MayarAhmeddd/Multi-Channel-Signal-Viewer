@@ -37,12 +37,3 @@ Zooming in when they are linked
 Adding more than one signal
 ![image](https://github.com/sbme-tutorials/task1-signal-viewer-dsp_fall23_task1_team_5/assets/115111861/c584f667-80bc-46bf-9231-87c9b7a5ea8b)
 
-
-
-
-## Team Members
-- Abdallah Ahmed
-- Omar Tarek
-- Mayar Ahmed
-- Hana Hesham
-
